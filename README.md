@@ -9,6 +9,7 @@ You could define a class to inherit from Parser, then overwrite the parse method
 Note that the class Event is accountable for passing parameters from the parse method to the generator method.
 
 # Example
+The package named [filesgenerator](https://github.com/zhiyuanfeng-git/filesgenerator) is an example using pargen.
 
 # License
 This source code is licensed under the Apache License, Version 2.0 found in the LICENSE and NOTICE file in the root directory of this source code.

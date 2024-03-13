@@ -6,7 +6,7 @@ It contains a parser and a generator. In the parser module, you can perform some
 
 # Usage
   ###### Step 1
-  Import necessary modules
+  Import necessary modules.
   ```python
     from pargen.parsers import Parser
     from pargen.generators import Generator
